@@ -1,4 +1,4 @@
-# Keyboard Sound Player
+# Hex Color Generator
 
 This is a simple JavaScript project that generates a random HEX color and applies it to the background of a container. It also displays the selected color code.
 
